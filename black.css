@@ -820,7 +820,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-search_autocomplete__suggestion_item--selected { background-color: #424242; }
 
-.c-search_autocomplete__suggestion_item .token { background-color: #222222; color: #e6e6e6; }
+.c-search_autocomplete__suggestion_item .token { background-color: #363636; color: #e6e6e6; }
 
 .c-search__input_and_close { border-bottom-color: #000; }
 
@@ -2307,9 +2307,9 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 #convo_tab .message_input, #convo_tab textarea#msg_text { color: #e6e6e6; }
 
-ts-message.message:hover, ts-message.message:active, ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator) { background-color: #222222; }
+ts-message.message:hover, ts-message.message:active, ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator) { background-color: #363636; }
 
-ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_container:hover { background-color: #222222; }
+ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_container:hover { background-color: #363636; }
 
 #whats_new_tab p { color: #e6e6e6; }
 
